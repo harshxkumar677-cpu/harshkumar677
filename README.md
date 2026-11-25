@@ -33,6 +33,3 @@ Git workflows, API interaction, and Markdown documentation
 ## Connect With Me
  -LinkedIn :https://www.linkedin.com/in/harsh-kumar-594543274?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - Email : 2601730318@krmu.edu.in
-- LinkedIn : [Your LinkedIn Profile URL]
-
-- Email : [Your college email address]
